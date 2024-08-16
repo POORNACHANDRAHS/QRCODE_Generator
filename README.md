@@ -14,9 +14,12 @@ The **QR Code Generator** is a Python-based project that allows users to generat
 
 #### How to Use:
 
-1. Run the script.
-2. Input the desired URL or text to be encoded into a QR code.
-3. The program will generate and save the QR code as an image file (`qrcode.png`).
+1.Install the Required Library: Make sure you have the qrcode library installed. You can install it using the following command:
+     pip install qrcode[pil]
+
+2. Run the script.
+3. Input the desired URL or text to be encoded into a QR code.
+4. The program will generate and save the QR code as an image file (`qrcode.png`).
 
 #### Technologies Used:
 
