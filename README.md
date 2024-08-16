@@ -15,6 +15,7 @@ The **QR Code Generator** is a Python-based project that allows users to generat
 #### How to Use:
 
 1.Install the Required Library: Make sure you have the qrcode library installed. You can install it using the following command:
+
      pip install qrcode[pil]
 
 2. Run the script.
